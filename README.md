@@ -5,4 +5,4 @@ An AI-powered extension for the [KADAS Albireo](https://www.kadas.org/) geospati
 
 ## Installation
 1. Download the plugin package from the [GeoAgent Repository (`kadas_geoagent.zip`)](https://github.com/Aloha-Churchill/GeoAgent/raw/main/kadas_geoagent.zip).
-2. Extract the archive and follow the instructions provided in the included `install.md` file to place the plugin directory into your local KADAS profile folder.
+2. Extract the archive and follow the instructions provided in the included `INSTALL.md` file to place the plugin directory into your local KADAS profile folder.
